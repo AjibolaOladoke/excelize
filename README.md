@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the excelize notes, exa
 
 ## Images
 
-[![excelize](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![excelize](images/preview.png)](https://github.com/Swift-Tech-Co/excelize)
 
 ## Introduction
 
@@ -240,7 +240,7 @@ Contributions are welcome! Open a pull request to fix a bug, or open an issue to
 
 ## Licenses
 
-This program is under the terms of the BSD 3-Clause License. See https://www.swifttechco.com.
+This program is under the terms of the BSD 3-Clause License. See https://github.com/Swift-Tech-Co/excelize.
 
 The Excel logo is a trademark of Microsoft Corporation. This artwork is an adaptation.
 
@@ -258,13 +258,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/excelize
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [qax-os/excelize](https://github.com/qax-os/excelize) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
